@@ -18,3 +18,4 @@ function embedIframe(link) {
 
 // Example usage:
 embedIframe('https://5cc2c8c1-55bf-470f-bea5-324bf3dc6ba5-00-3nh4qeclgya0b.picard.replit.dev'); // Replace with your desired link
+document.title = "BonziDELTA";
